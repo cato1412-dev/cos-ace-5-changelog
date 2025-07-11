@@ -1,6 +1,18 @@
 {
-  "title": "VieOS ColorOS Ace 5 Changelog",
+  "title": "Vieos ColorOS Ace 5 Changelog",
   "versions": [
+    {
+      "version": "V1.2.832",
+      "groups": {
+        "Sửa lỗi": [
+          "Không hiện vuốt để trả lời cuộc gọi"
+        ],
+        "Tính năng mới": [
+          "Hiện số thông báo trên icon",
+          "Thêm Toolbox"
+        ]
+      }
+    },
     {
       "version": "V1.1.832",
       "groups": {
