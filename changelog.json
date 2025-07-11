@@ -1,0 +1,38 @@
+{
+  "title": "Vieos ColorOS Ace 5 Changelog",
+  "versions": [
+    {
+      "version": "V1.1.832",
+      "groups": {
+        "Sửa lỗi": [
+          "Không hiện trình ghi âm cuộc gọi",
+          "Không hiện bong bóng chat"
+        ],
+        "Tính năng mới": [
+          "Trình cài đặt mới"
+        ],
+        "Tối ưu": [
+          "Thông báo và pin"
+        ]
+      }
+    },
+    {
+      "version": "V1.0.832",
+      "groups": {
+        "Tính năng mới": [
+          "Gphoto + game",
+          "Gở bỏ hạn chế thư mục",
+          "Circle to search",
+          "Giữ nút nguồn gọi Gemini",
+          "Fix sóng di động , wifi , bluetooth",
+          "Hasselblad",
+          "Fix thông báo",
+          "Fix bong bóng chat",
+          "Trình cài đặt mod",
+          "Chụp ảnh all app",
+          "and more..."
+        ]
+      }
+    }
+  ]
+}
