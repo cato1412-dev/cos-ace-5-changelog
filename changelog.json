@@ -4,6 +4,9 @@
     {
       "version": "V1.3.832",
       "groups": {
+        "Sửa lỗi": [
+          "Delay clipboard"
+        ],
         "Tối ưu": [
           "Thông báo và pin"
         ]
