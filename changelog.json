@@ -2,12 +2,10 @@
   "title": "Vieos ColorOS Ace 5 Changelog",
   "versions": [
     {
-      "version": "V2.0.840 Coming Soon",
+      "version": "V1.3.832",
       "groups": {
-        "Tính năng mới": [
-          "Base ColorOS v840",
-          "Hạn chế delay noti + service",
-          "Thêm Toolbox mới"
+        "Tối ưu": [
+          "Thông báo và pin"
         ]
       }
     },
