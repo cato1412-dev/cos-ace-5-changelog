@@ -2,6 +2,22 @@
   "title": "Vieos ColorOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "V2.0",
+      "groups": {
+        "Tính năng mới": [
+          "Thêm Toolbox mới"
+        ],
+        "Sửa lỗi": [
+          "Delay clipboard",
+          "Không cài đc app 32bit",
+          "Không cài đc app từ chợ ứng dụng bên thứ 3"
+        ],
+        "Tối ưu": [
+          "Thông báo và pin"
+        ]
+      }
+    },
+    {
       "version": "V1.3.832",
       "groups": {
         "Sửa lỗi": [
