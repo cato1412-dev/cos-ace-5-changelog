@@ -8,7 +8,11 @@
           "Toolbox ver mới"
         ],
         "Sửa lỗi": [
-          "Gọi CTS"
+          "Gọi CTS",
+          "Trình cài đặt"
+        ],
+        "Tối ưu": [
+          "Nhiệt độ máy"
         ]
       }
     },
