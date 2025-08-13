@@ -2,14 +2,22 @@
   "title": "Vieos ColorOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "V2.2.840",
+      "groups": {
+        "Sửa lỗi": [
+          "Gọi CTS",
+          "Trình cài đặt"
+        ],
+        "Tối ưu": [
+          "Nhiệt độ máy"
+        ]
+      }
+    },
+    {
       "version": "V2.1.840",
       "groups": {
         "Tính năng mới": [
           "Toolbox ver mới"
-        ],
-        "Sửa lỗi": [
-          "Gọi CTS",
-          "Trình cài đặt"
         ],
         "Tối ưu": [
           "Nhiệt độ máy"
