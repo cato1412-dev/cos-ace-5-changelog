@@ -2,6 +2,20 @@
   "title": "Vieos ColorOS Ace 5 Changelog",
   "versions": [
     {
+      "version": "V3.0.860",
+      "groups": {
+        "Sửa lỗi": [
+          "Trình cài đặt",
+          "Toolbox v2"
+        ],
+        "Tối ưu": [
+          "Font chữ",
+          "Delay clipboard",
+          "Aod"
+        ]
+      }
+    },
+    {
       "version": "V2.2.840",
       "groups": {
         "Sửa lỗi": [
